@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Drishtikone – AI Eyes for the Visually Impaired",
+    "desc": "AI web app using YOLOv8, OpenCV & Web Speech API for real-time Hindi voice guidance to help visually impaired users.",
+
+ 
+
+    "image": "portfolio1",
+    "category": "Drishtikone",
+    "links": {
+      "view": "https://shubham4680.github.io/Drishtikone-AI-Eyes-for-the-Visually-Impaired-/",
+      "code": "https://github.com/Shubham4680/Drishtikone-AI-Eyes-for-the-Visually-Impaired-"
+    }
+  },
+
+  {
+    "name": "Employee_Payroll_System",
+    "desc": "Java console project using JDBC & MySQL to manage employees, salaries, and payroll records.",
+ 
+    "image": "portfolio2",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Shubham4680",
+      "code": "https://github.com/Shubham4680/Employee_Payroll_System"
+    }
+  },
+
+
+    {
+    "name": "Console-Quiz-Application ",
+    "desc": "Quiz Application – Java Developed an MCQ-based quiz program in Java with timer, score tracking, and file-based question loading.  ",
+
+    "image": "portfolio3",
+    "category": "Quiz",
+    "links": {
+      "view": "https://github.com/Shubham4680",
+      "code": "https://github.com/Shubham4680/Console-Quiz-Application"
+    }
+  }
+
+
+
+  
+]
